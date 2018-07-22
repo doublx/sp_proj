@@ -1,1 +1,1 @@
-# Welcome to Doo play
+# Spring Boot Recipe Application
